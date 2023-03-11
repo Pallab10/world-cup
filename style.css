@@ -157,6 +157,10 @@ footer h2{
     margin-left: 20px;
 }
 
+.second .buttons .btn-1{
+    margin-bottom: 15px;
+}
+
 .flag{
     display: flex;
     align-items: center;
